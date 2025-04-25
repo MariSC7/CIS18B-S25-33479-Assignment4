@@ -1,7 +1,7 @@
 Run Steps: 
-1. Clone the Repository: 
-2. Compile the code using "javac LibraryTest.java".
-3. Run the program using "java LibraryTest".
+1. Clone the Repository: "git clone https://github.com/MariSC7/CIS18B-S25-33479-Assignment4.git"
+2. Compile the code: "javac LibraryTest.java"
+3. Run the program: "java LibraryTest"
 
 
 The Program: 
